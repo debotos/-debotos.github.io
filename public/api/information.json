@@ -1,0 +1,21 @@
+{
+  "firstName": "Debotos",
+  "lastName": "Das",
+  "fullName": "Debotos Das",
+  "thumbImage": "/images/formal-image.png",
+  "largeImage": "/images/about-image.jpg",
+  "bio": "Full-stack developer from Bangladesh passionate about JavaScript stacks. Consider me as a hard-working friendly individual who enjoys communicating with others & searching for a challenging new role where skills and knowledge can be applied.",
+  "age": 26,
+  "nationality": "Bangladeshi",
+  "languages": ["English", "Bengali"],
+  "address": "Doba, Rupsha, Khulna, 9240",
+  "freelance": "Available",
+  "socialAddress": {
+    "twitter": "https://twitter.com/debotos",
+    "github": "https://github.com/debotos",
+    "instagram": "https://www.instagram.com/_debotos_",
+    "linkedin": "https://www.linkedin.com/in/debotos-das"
+  },
+  "phoneNumbers": ["+8801790015380"],
+  "emailAddress": ["contact@debotos.com", "thuindebotosdas@gmail.com"]
+}

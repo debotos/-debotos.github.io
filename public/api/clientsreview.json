@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Paul De Villiers",
+    "meta": "Director at BlueBox Worldwide Ltd",
+    "givenreview": 5.0,
+    "image": "/images/buyers/paul.png",
+    "text": "I worked with Debotos on a few Single Page Application (SPA) projects where he provided the front-end coding required. His work is excellent and he is very diligent and deadline orientated. I enjoyed working with Debotos at the time and plan to work with him on other projects in the future."
+  },
+  {
+    "id": 2,
+    "name": "Miguel Heinonen",
+    "meta": "Founder & CEO - Heirizon.com",
+    "givenreview": 4.2,
+    "image": "/images/buyers/miguel.jpg",
+    "text": "Debotos is one of the best dest developers we have worked with. His high quality coding skill-sets and strengths has made our platform very versatile with a multitude of functions. I alway will prioritize work to Debotos as his work is always stellar."
+  },
+  {
+    "id": 3,
+    "name": "Isaac Livne",
+    "meta": "Co-Founder at CYDEFENCE",
+    "givenreview": 4.2,
+    "image": "/images/buyers/isaac.jpg",
+    "text": "Debotos is a smart and helpful person! We enjoyed working with him."
+  },
+  {
+    "id": 4,
+    "name": "Erk Aydogan",
+    "meta": "Web Developer at Vaduz, Liechtenstein",
+    "givenreview": 4.7,
+    "image": "/images/buyers/erk.png",
+    "text": "Debotos D. is amazing, fast and can help you with a passion."
+  },
+  {
+    "id": 5,
+    "name": "Spencer Dixon",
+    "meta": "Ruby on Rails Developer",
+    "givenreview": 5,
+    "image": "/images/buyers/spencer.jpg",
+    "text": "Debotos is an exceptional developer. He takes careful consideration of the brief and is very accomodating. As a developer myself, my standards are high and I'm very pleased with his attention to detail and quality of work. Would not hesitate to hire again for any React.js work."
+  },
+  {
+    "id": 6,
+    "name": "Mohammad Azam",
+    "meta": "Founder - EZILM",
+    "givenreview": 5,
+    "image": "/images/buyers/default.jpg",
+    "text": "Very capable software developer who can take your ideas and implement exactly what you desire. Hard working, motivated and always asking questions to make sure you get what you need. For sure, I’ll use his services again."
+  },
+  {
+    "id": 7,
+    "name": "Nicolas",
+    "meta": "Software Developer",
+    "givenreview": 5,
+    "image": "/images/buyers/default.jpg",
+    "text": "Debotos is an awesome programmer! He's by far the most professional freelancer I ever hired. He's always looking into how to improve and give the best! Communication with him was easy and he always understands the requirements correctly. As a programer myself, I can tell that he has strong and advanced skills."
+  },
+  {
+    "id": 8,
+    "name": "Mihail R.",
+    "meta": "CEO - World Wide Lead",
+    "givenreview": 5,
+    "image": "/images/buyers/default.jpg",
+    "text": "We hire only Debotos D. for his impeccable developer skills. We have other 3 companies and with the Worldwide Leads LTD. we give him all digital services to maintain. He is a diamond to have! Remember that."
+  }
+]

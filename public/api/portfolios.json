@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "title": "Heirizon - Full Stack",
+    "subtitle": "Heirizon is an employment marketplace that pairs employee with employers.",
+    "coverimage": "/images/portfolios/heirizon-tech-900x604.jpeg",
+    "imagegallery": [
+      "/images/portfolios/heirizon-tech-1.png",
+      "/images/portfolios/heirizon-tech-2.png"
+    ],
+    "videogallery": ["https://www.youtube.com/watch?v=tQ581mzsxOQ"],
+    "url": "https://www.heirizon.com",
+    "filters": ["web"]
+  },
+  {
+    "id": 2,
+    "title": "EMMA - Frontend",
+    "subtitle": "The best of event management and fundraising technology under one virtual roof.",
+    "coverimage": "/images/portfolios/emma-cover.svg",
+    "imagegallery": false,
+    "videogallery": false,
+    "url": "https://www.emma-live.com/",
+    "filters": ["web"]
+  }
+]

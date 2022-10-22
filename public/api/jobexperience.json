@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "title": "CTO of Heirizon | Full Stack Developer",
+    "meta": "Heirizon",
+    "text": "Heirizon is an employment marketplace that pairs employee with employers. We collate jobs by geography to make sure that out users can find employment conveniently. Everyday we are partnering with local agencies, building more portals and expanding our employment territory across the globe.",
+    "year": "2019 - Present",
+    "link": "https://www.heirizon.com"
+  },
+  {
+    "id": 2,
+    "title": "Freelancer | Full Stack Developer",
+    "meta": "PeoplePerHour",
+    "link": "https://pph.me/debotos",
+    "year": "2018 - Present"
+  },
+  {
+    "id": 3,
+    "title": "Freelancer | Full Stack Developer",
+    "meta": "Upwork",
+    "link": "https://www.upwork.com/freelancers/~01c98e3b1f5f5d7da1",
+    "year": "2016 - Present"
+  },
+  {
+    "id": 4,
+    "title": "Freelancer | Full Stack Developer",
+    "meta": "Fiverr",
+    "link": "https://www.fiverr.com/debotos",
+    "year": "2021 - Present"
+  }
+]

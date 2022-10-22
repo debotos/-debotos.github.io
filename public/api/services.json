@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Web Development",
+    "text": "Develop Single-Page Application & Website using React.js, Next.js, Node.js, MongoDB/PostgreSQL, RESTful & GraphQL API.",
+    "icon": "/icons/code-s-slash-line.svg"
+  },
+  {
+    "id": 2,
+    "title": "Mobile App Development",
+    "text": "Cross-Platform Mobile Applications using React-Native, Flutter. Also develop IOS platform specific app using SwiftUI.",
+    "icon": "/icons/smartphone-line.svg"
+  },
+  {
+    "id": 3,
+    "title": "Desktop App Development",
+    "text": "Cross-Platform Desktop Software using Electron JS, Flutter. Also develop IOS platform specific app using SwiftUI.",
+    "icon": "/icons/clipboard.svg"
+  }
+]
