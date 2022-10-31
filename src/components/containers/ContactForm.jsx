@@ -110,7 +110,7 @@ const ContactForm = () => {
       <div className="inputbox">
         <label htmlFor="message">Message</label>
         <textarea
-          placeholder="Enter you message for me..."
+          placeholder="Enter your message for me..."
           cols="1"
           rows="5"
           id="message"
