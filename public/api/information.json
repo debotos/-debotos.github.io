@@ -8,13 +8,14 @@
   "age": 26,
   "nationality": "Bangladeshi",
   "languages": ["English", "Bengali"],
-  "address": "Doba, Rupsha, Khulna, 9240",
+  "address": "Doba - 9240, Rupsha, Khulna, BD",
   "freelance": "Available",
   "socialAddress": {
     "twitter": "https://twitter.com/debotos",
     "github": "https://github.com/debotos",
     "instagram": "https://www.instagram.com/_debotos_/",
-    "linkedin": "https://www.linkedin.com/in/debotos-das"
+    "linkedin": "https://www.linkedin.com/in/debotos-das",
+    "facebook": "https://www.facebook.com/dev.debotos"
   },
   "phoneNumbers": ["+8801790015380"],
   "emailAddress": ["contact@debotos.com"]
