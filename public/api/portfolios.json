@@ -46,8 +46,16 @@
     "id": 5,
     "title": "Liberty V3 - Frontend",
     "subtitle": "The best of project management technology under one virtual roof.",
-    "coverimage": "/images/portfolios/liberty-v3.png",
-    "imagegallery": false,
+    "coverimage": "/images/portfolios/liberty/liberty-v3-cover.png",
+    "imagegallery": [
+      "/images/portfolios/liberty/liberty-v3-1.png",
+      "/images/portfolios/liberty/liberty-v3-2.png",
+      "/images/portfolios/liberty/liberty-v3-3.png",
+      "/images/portfolios/liberty/liberty-v3-4.png",
+      "/images/portfolios/liberty/liberty-v3-5.png",
+      "/images/portfolios/liberty/liberty-v3-6.png",
+      "/images/portfolios/liberty/liberty-v3-7.png"
+    ],
     "videogallery": false,
     "url": "",
     "filters": ["web"]
