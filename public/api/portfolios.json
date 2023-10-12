@@ -51,5 +51,22 @@
     "videogallery": false,
     "url": "",
     "filters": ["web"]
+  },
+  {
+    "id": 6,
+    "title": "Plasterboard - Frontend",
+    "subtitle": "Marketplace to buy and sell or exchange Plasterboard products via bidding.",
+    "coverimage": "/images/portfolios/plasterboard/plasterboard-6.png",
+    "imagegallery": [
+      "/images/portfolios/plasterboard/plasterboard-6.png",
+      "/images/portfolios/plasterboard/plasterboard-5.png",
+      "/images/portfolios/plasterboard/plasterboard-2.png",
+      "/images/portfolios/plasterboard/plasterboard-1.png",
+      "/images/portfolios/plasterboard/plasterboard-4.png",
+      "/images/portfolios/plasterboard/plasterboard-8.png"
+    ],
+    "videogallery": false,
+    "url": "",
+    "filters": ["mobile"]
   }
 ]
