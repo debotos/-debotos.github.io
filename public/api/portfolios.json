@@ -80,7 +80,7 @@
   {
     "id": 7,
     "title": "Document Sync",
-    "subtitle": "Document syncing multi-platform desktop application like GDrive.",
+    "subtitle": "Multi-platform document syncing desktop application like GDrive.",
     "coverimage": "/images/portfolios/lexicon/lexicon-cover.png",
     "imagegallery": [
       "/images/portfolios/lexicon/lexicon-1.png",
@@ -91,5 +91,29 @@
     "videogallery": false,
     "url": "",
     "filters": ["desktop"]
+  },
+  {
+    "id": 8,
+    "title": "Locker4Life",
+    "subtitle": "Multi-platform mobile application to manage sensitive documents and data.",
+    "coverimage": "/images/portfolios/locker4life/locker4life-cover.png",
+    "imagegallery": false,
+    "videogallery": false,
+    "url": "",
+    "filters": ["mobile"]
+  },
+  {
+    "id": 9,
+    "title": "Academic Routine Builder",
+    "subtitle": "Visually build routine easily and export as PDF.",
+    "coverimage": "/images/portfolios/routine/routine-cover.png",
+    "imagegallery": [
+      "/images/portfolios/routine/routine-1.png",
+      "/images/portfolios/routine/routine-2.png",
+      "/images/portfolios/routine/routine-3.png"
+    ],
+    "videogallery": false,
+    "url": "",
+    "filters": ["web"]
   }
 ]
