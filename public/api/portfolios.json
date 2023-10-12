@@ -56,7 +56,7 @@
     "id": 6,
     "title": "Plasterboard - Frontend",
     "subtitle": "Marketplace to buy and sell or exchange Plasterboard products via bidding.",
-    "coverimage": "/images/portfolios/plasterboard/plasterboard-6.png",
+    "coverimage": "/images/portfolios/plasterboard/plasterboard-cover.png",
     "imagegallery": [
       "/images/portfolios/plasterboard/plasterboard-6.png",
       "/images/portfolios/plasterboard/plasterboard-5.png",
@@ -68,5 +68,20 @@
     "videogallery": false,
     "url": "",
     "filters": ["mobile"]
+  },
+  {
+    "id": 7,
+    "title": "Document Sync",
+    "subtitle": "Document syncing multi-platform desktop application like GDrive.",
+    "coverimage": "/images/portfolios/lexicon/lexicon-cover.png",
+    "imagegallery": [
+      "/images/portfolios/lexicon/lexicon-1.png",
+      "/images/portfolios/lexicon/lexicon-2.png",
+      "/images/portfolios/lexicon/lexicon-3.png",
+      "/images/portfolios/lexicon/lexicon-4.png"
+    ],
+    "videogallery": false,
+    "url": "",
+    "filters": ["desktop"]
   }
 ]
