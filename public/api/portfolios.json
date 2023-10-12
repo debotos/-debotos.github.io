@@ -36,10 +36,20 @@
     "id": 4,
     "title": "EMMA - Frontend",
     "subtitle": "The best of event management and fundraising technology under one virtual roof.",
-    "coverimage": "/images/portfolios/emma-cover.svg",
+    "coverimage": "/images/portfolios/emma-cover.png",
     "imagegallery": false,
     "videogallery": false,
     "url": "https://www.emma-live.com/",
+    "filters": ["web"]
+  },
+  {
+    "id": 4,
+    "title": "Liberty V3 - Frontend",
+    "subtitle": "The best of project management technology under one virtual roof.",
+    "coverimage": "/images/portfolios/liberty-v3.png",
+    "imagegallery": false,
+    "videogallery": false,
+    "url": "",
     "filters": ["web"]
   }
 ]
